@@ -1,207 +1,90 @@
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=A.Prahan&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=IoT%20Builder%20%7C%20Embedded%20Systems%20%7C%20AI%20Explorer&descAlignY=58&descSize=18&animation=fadeIn" />
+
+<!-- Typing SVG -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=IoT+Developer+%F0%9F%8C%90;Arduino+%26+ESP32+Builder+%F0%9F%94%8C;Embedded+Systems+Explorer+%F0%9F%92%BB;AI+%26+Automation+Learner+%F0%9F%A4%96;Future+Electronics+Engineer+%F0%9F%9A%80;Building+Smart+Systems+%F0%9F%94%A5" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I am **Prahan**, a passionate student exploring the world of:
+
+- Internet of Things (IoT)
+- Embedded Systems & Electronics
+- Artificial Intelligence
+- C / C++ / Python Programming
+- Robotics & Automation
+- Wireless Sensor Systems
+
+I enjoy building real-world hardware projects that combine **software intelligence + electronics innovation**.
+
+---
+
+## 🎯 Vision
+
+To become an **Electronics & Communication Engineer** and develop intelligent systems that connect hardware, software, and AI to solve real-world problems.
+
+---
+
+## 🔥 Current Focus
+
+- Arduino & ESP32 Development
+- Embedded C Programming
+- IoT Smart Systems
+- Sensor Integration
+- Python Automation
+- AI + Hardware Projects
+- Git & Open Source
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 What I'm Building
+
+- Smart Home Automation Systems
+- IoT Sensor Networks
+- Arduino Robotics Projects
+- AI-powered Embedded Devices
+- Real-time Monitoring Systems
+
+---
 <div align="center">
 
-# Prahan
+### GitHub Analytics
 
-### Student • IoT Enthusiast • Future Electronics & Communication Engineer
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prahanarumugam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-*Turning ideas into intelligent hardware with the power of software and AI.*
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Electronics+%7C+Embedded+Systems;Arduino+%7C+ESP32+%7C+IoT;Artificial+Intelligence;Always+Learning+%7C+Always+Building" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=prahanarumugam&label=Profile%20Views&color=0e75b6&style=flat-square"/>
-
-<img src="https://img.shields.io/github/followers/prahanarumugam?style=flat-square"/>
-
-<img src="https://img.shields.io/github/stars/prahanarumugam?affiliations=OWNER&style=flat-square"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prahanarumugam&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-# About Me
-
-I am a passionate student who enjoys exploring the world of **Electronics**, **Embedded Systems**, **Artificial Intelligence**, and the **Internet of Things**.
-
-I enjoy designing projects that combine hardware and software to solve real-world problems while continuously learning new technologies.
-
-Alongside engineering, I also enjoy drawing, science, and creative design.
-
----
-
-# Vision
-
-To become an **Electronics & Communication Engineer** and contribute to intelligent technologies through:
-
-* Embedded Systems
-* Artificial Intelligence
-* Robotics
-* IoT Solutions
-* Smart Automation
-* Wireless Communication
-
----
-
-# Currently Learning
-
-<table>
-
-<tr>
-
-<td>
-
-* Arduino
-* ESP32
-* ESP8266
-* Embedded C
-
-</td>
-
-<td>
-
-* Python
-* C / C++
-* Git & GitHub
-* IoT Development
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# Technology Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,git,github,vscode&theme=dark"/>
-
-</p>
-
----
-
-# Areas of Interest
-
-* Embedded Systems
-* Internet of Things
-* Artificial Intelligence
-* Robotics
-* Electronics
-* Automation
-* Wireless Sensor Networks
-* Open Source Development
-
----
-
-# Current Projects
-
-| Project         | Description                             |
-| --------------- | --------------------------------------- |
-| Smart Home      | Home automation using Arduino and ESP32 |
-| Weather Station | Environmental monitoring system         |
-| AI + IoT        | Intelligent connected devices           |
-| Robotics        | Arduino-based robotics projects         |
-| Sensor Network  | Wireless environmental monitoring       |
-
----
-
-# Learning Philosophy
-
-```text
-Learn
-   │
-   ▼
-Build
-   │
-   ▼
-Experiment
-   │
-   ▼
-Improve
-   │
-   ▼
-Innovate
-```
-
----
-
-# GitHub Statistics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=prahanarumugam&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prahanarumugam&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=prahanarumugam&theme=github-dark-blue&hide_border=true"/>
-
-</p>
-
----
-
-# Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prahanarumugam&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prahanarumugam&theme=algolia&no-frame=true&row=1&column=6"/>
-
-</p>
-
----
-
-# Goals
-
-* Build advanced Arduino and ESP32 projects
-* Master Embedded C programming
-* Develop AI-powered IoT applications
-* Explore robotics and automation
-* Contribute to open-source projects
-* Build a personal technical portfolio
-* Continue improving drawing and design skills
-
----
-
-# Featured Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=arduino,python,c,cpp,git,github,vscode"/>
-
-</p>
-
----
-
-# Connect
-
-<p align="center">
-
-<a href="https://github.com/prahanarumugam">GitHub</a>
-
-</p>
-
----
-
 <div align="center">
 
-### Building one project at a time.
+### Contribution Streak
 
-*"Curiosity inspires learning. Learning inspires innovation."*
+<img src="https://streak-stats.demolab.com?user=prahanarumugam&theme=tokyonight&hide_border=true" />
 
 </div>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prahanarumugam&theme=react-dark&hide_border=true"/>
+</p>
+
+---
+
