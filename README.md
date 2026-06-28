@@ -1,274 +1,207 @@
-  # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Prahan**
+<div align="center">
 
-### 🚀 Student • IoT Enthusiast • Future Electrical and Electronics Engineer @ 2036
+# Prahan
 
-> *"Turning ideas into intelligent hardware with the power of software and AI."*
+### Student • IoT Enthusiast • Future Electronics & Communication Engineer
 
----
+*Turning ideas into intelligent hardware with the power of software and AI.*
 
-## 👨‍💻 About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Electronics+%7C+Embedded+Systems;Arduino+%7C+ESP32+%7C+IoT;Artificial+Intelligence;Always+Learning+%7C+Always+Building" />
 
-🎓 **7th Grade Student** at **Aditya Vidhyashram School**
+<br>
 
-I am a passionate young innovator who enjoys exploring the exciting world of **Electronics, Arduino, Embedded Systems, and the Internet of Things (IoT)**. My goal is to combine **hardware**, **software**, and **Artificial Intelligence** to build smart, practical, and creative solutions.
+<img src="https://komarev.com/ghpvc/?username=prahanarumugam&label=Profile%20Views&color=0e75b6&style=flat-square"/>
 
-Alongside technology, I am an **intermediate drawing artist**, and I enjoy expressing creativity through both engineering and art.
+<img src="https://img.shields.io/github/followers/prahanarumugam?style=flat-square"/>
 
----
+<img src="https://img.shields.io/github/stars/prahanarumugam?affiliations=OWNER&style=flat-square"/>
 
-## 🎯 My Vision
-
-I aspire to become an **Electronics & Communication Engineer (ECE)** and contribute to future technologies by developing intelligent embedded systems, AI-powered devices, robotics, and innovative IoT solutions.
+</div>
 
 ---
 
-## 🔥 Current Focus
+# About Me
 
-* ⚡ Arduino Programming
-* 🌐 Internet of Things (IoT)
-* 🤖 AI-Assisted Software Development
-* 🔌 Electronics & Embedded Systems
-* 💻 C/C++ Programming
-* 🐍 Python Programming
-* 📡 Sensors & Wireless Communication
-* ☁️ Cloud-based IoT Solutions
-* 🛠️ Git & GitHub
+I am a passionate student who enjoys exploring the world of **Electronics**, **Embedded Systems**, **Artificial Intelligence**, and the **Internet of Things**.
+
+I enjoy designing projects that combine hardware and software to solve real-world problems while continuously learning new technologies.
+
+Alongside engineering, I also enjoy drawing, science, and creative design.
 
 ---
 
-## 💡 What I'm Building
+# Vision
 
-* Smart Automation Projects
-* Arduino-Based Systems
-* AI + IoT Integrations
-* Embedded Hardware Solutions
-* Intelligent Sensor Networks
-* Creative DIY Electronics
+To become an **Electronics & Communication Engineer** and contribute to intelligent technologies through:
 
----
-
-## 🧠 Skills
-
-### Programming
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### Hardware & IoT
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
-![IoT](https://img.shields.io/badge/Internet_of_Things-FF6F00?style=for-the-badge)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-1E88E5?style=for-the-badge)
-![Electronics](https://img.shields.io/badge/Electronics-4CAF50?style=for-the-badge)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+* Embedded Systems
+* Artificial Intelligence
+* Robotics
+* IoT Solutions
+* Smart Automation
+* Wireless Communication
 
 ---
 
-## 🎨 Beyond Engineering
+# Currently Learning
 
-Besides building electronic projects, I also enjoy:
+<table>
 
-* 🎨 Drawing & Sketching
-* 📚 Learning New Technologies
-* 🔍 Exploring Science
-* 💡 Experimenting with Innovative Ideas
+<tr>
+
+<td>
+
+* Arduino
+* ESP32
+* ESP8266
+* Embedded C
+
+</td>
+
+<td>
+
+* Python
+* C / C++
+* Git & GitHub
+* IoT Development
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-## 📈 My Learning Philosophy
+# Technology Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,git,github,vscode&theme=dark"/>
+
+</p>
+
+---
+
+# Areas of Interest
+
+* Embedded Systems
+* Internet of Things
+* Artificial Intelligence
+* Robotics
+* Electronics
+* Automation
+* Wireless Sensor Networks
+* Open Source Development
+
+---
+
+# Current Projects
+
+| Project         | Description                             |
+| --------------- | --------------------------------------- |
+| Smart Home      | Home automation using Arduino and ESP32 |
+| Weather Station | Environmental monitoring system         |
+| AI + IoT        | Intelligent connected devices           |
+| Robotics        | Arduino-based robotics projects         |
+| Sensor Network  | Wireless environmental monitoring       |
+
+---
+
+# Learning Philosophy
 
 ```text
-Learn 📚
-      ↓
-Build 🔨
-      ↓
-Experiment ⚡
-      ↓
-Improve 🚀
-      ↓
-Innovate 💡
+Learn
+   │
+   ▼
+Build
+   │
+   ▼
+Experiment
+   │
+   ▼
+Improve
+   │
+   ▼
+Innovate
 ```
 
 ---
 
-## 🌟 Motto
+# GitHub Statistics
 
-> **"Every great engineer starts with curiosity, creativity, and the courage to build."**
+<p align="center">
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=prahanarumugam&show_icons=true&theme=github_dark&hide_border=true"/>
 
-## 📌 Goals for 2026
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prahanarumugam&layout=compact&theme=github_dark&hide_border=true"/>
 
-* ✅ Build advanced Arduino projects
-* ✅ Learn ESP32 & ESP8266
-* ✅ Create AI-powered IoT devices
-* ✅ Master Embedded Programming
-* ✅ Explore Robotics
-* ✅ Share open-source projects on GitHub
-* ✅ Continue improving my drawing skills
+</p>
 
----
+<p align="center">
 
-## 🚀 Featured Areas
+<img src="https://streak-stats.demolab.com?user=prahanarumugam&theme=github-dark-blue&hide_border=true"/>
 
-* 🤖 Artificial Intelligence
-* 🌐 Internet of Things
-* ⚡ Arduino
-* 🔌 Electronics
-* 📡 Embedded Systems
-* 🧠 AI Coding
-* 💻 Software Development
-* 🎨 Digital Creativity
+</p>
 
 ---
 
-## ⭐ Thanks for Visiting!
+# Contribution Graph
 
-Thank you for visiting my GitHub profile!
+<p align="center">
 
-I'm always learning, building, and exploring new technologies. Every project is another step toward becoming a better engineer and creator.
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prahanarumugam&theme=github-dark&hide_border=true"/>
 
-### **"Dream Big • Build Smart • Never Stop Learning."** 🚀
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hi, I'm **Prahan**
-
-### 🚀 Student • IoT Enthusiast • Future Electronics & Communication Engineer
-
-> *"Turning ideas into intelligent hardware with the power of software and AI."*
+</p>
 
 ---
 
-## 👨‍💻 About Me
+# GitHub Trophies
 
-🎓 **7th Grade Student** at **Aditya Vidhyashram School**
+<p align="center">
 
-I am a passionate young innovator who enjoys exploring the exciting world of **Electronics, Arduino, Embedded Systems, and the Internet of Things (IoT)**. My goal is to combine **hardware**, **software**, and **Artificial Intelligence** to build smart, practical, and creative solutions.
+<img src="https://github-profile-trophy.vercel.app/?username=prahanarumugam&theme=algolia&no-frame=true&row=1&column=6"/>
 
-Alongside technology, I am an **intermediate drawing artist**, and I enjoy expressing creativity through both engineering and art.
-
----
-
-## 🎯 My Vision
-
-I aspire to become an **Electronics & Communication Engineer (ECE)** and contribute to future technologies by developing intelligent embedded systems, AI-powered devices, robotics, and innovative IoT solutions.
+</p>
 
 ---
 
-## 🔥 Current Focus
+# Goals
 
-* ⚡ Arduino Programming
-* 🌐 Internet of Things (IoT)
-* 🤖 AI-Assisted Software Development
-* 🔌 Electronics & Embedded Systems
-* 💻 C/C++ Programming
-* 🐍 Python Programming
-* 📡 Sensors & Wireless Communication
-* ☁️ Cloud-based IoT Solutions
-* 🛠️ Git & GitHub
+* Build advanced Arduino and ESP32 projects
+* Master Embedded C programming
+* Develop AI-powered IoT applications
+* Explore robotics and automation
+* Contribute to open-source projects
+* Build a personal technical portfolio
+* Continue improving drawing and design skills
 
 ---
 
-## 💡 What I'm Building
+# Featured Technologies
 
-* Smart Automation Projects
-* Arduino-Based Systems
-* AI + IoT Integrations
-* Embedded Hardware Solutions
-* Intelligent Sensor Networks
-* Creative DIY Electronics
+<p align="center">
 
----
+<img src="https://skillicons.dev/icons?i=arduino,python,c,cpp,git,github,vscode"/>
 
-## 🧠 Skills
-
-### Programming
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-
-### Hardware & IoT
-
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge\&logo=arduino\&logoColor=white)
-![IoT](https://img.shields.io/badge/Internet_of_Things-FF6F00?style=for-the-badge)
-![Embedded Systems](https://img.shields.io/badge/Embedded_Systems-1E88E5?style=for-the-badge)
-![Electronics](https://img.shields.io/badge/Electronics-4CAF50?style=for-the-badge)
-
-### Tools
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
+</p>
 
 ---
 
-## 🎨 Beyond Engineering
+# Connect
 
-Besides building electronic projects, I also enjoy:
+<p align="center">
 
-* 🎨 Drawing & Sketching
-* 📚 Learning New Technologies
-* 🔍 Exploring Science
-* 💡 Experimenting with Innovative Ideas
+<a href="https://github.com/prahanarumugam">GitHub</a>
 
----
-
-## 📈 My Learning Philosophy
-
-```text
-Learn 📚
-      ↓
-Build 🔨
-      ↓
-Experiment ⚡
-      ↓
-Improve 🚀
-      ↓
-Innovate 💡
-```
+</p>
 
 ---
 
-## 🌟 Motto
+<div align="center">
 
-> **"Every great engineer starts with curiosity, creativity, and the courage to build."**
+### Building one project at a time.
 
----
+*"Curiosity inspires learning. Learning inspires innovation."*
 
-## 📌 Goals for 2026
-
-* ✅ Build advanced Arduino projects
-* ✅ Learn ESP32 & ESP8266
-* ✅ Create AI-powered IoT devices
-* ✅ Master Embedded Programming
-* ✅ Explore Robotics
-* ✅ Share open-source projects on GitHub
-* ✅ Continue improving my drawing skills
-
----
-
-## 🚀 Featured Areas
-
-* 🤖 Artificial Intelligence
-* 🌐 Internet of Things
-* ⚡ Arduino
-* 🔌 Electronics
-* 📡 Embedded Systems
-* 🧠 AI Coding
-* 💻 Software Development
-* 🎨 Digital Creativity
-
----
-
-## ⭐ Thanks for Visiting!
-
-Thank you for visiting my GitHub profile!
-
-I'm always learning, building, and exploring new technologies. Every project is another step toward becoming a better engineer and creator.
-
-### **"Dream Big • Build Smart • Never Stop Learning."** 🚀
+</div>
